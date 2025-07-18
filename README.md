@@ -19,11 +19,6 @@ The goal of this assignment is to:
 - Various hyperparameters (learning rate, optimizer, batch size, etc.) are explored.
 - Final predictions are compared against ground truth annotations for analysis and evaluation.
 
-## 📁 Project Files
-
-- `b2220356171.ipynb` — Jupyter Notebook containing all code, plots, and explanations
-- `b2220356171.py` — Exported Python version of the notebook
-- `report.pdf` — Report including implementation details, results, and discussions (if applicable)
 
 ## 🔒 Academic Disclaimer
 
@@ -33,4 +28,3 @@ This work is part of a university course assignment and follows strict academic 
 
 > Created by **Ufuk Cefaker**  
 > Hacettepe University, Computer Engineering  
-> Student No: 2220356171
